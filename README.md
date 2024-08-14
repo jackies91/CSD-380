@@ -4,6 +4,6 @@ CSD 380 DevOps
 
 <h2>Contributors</h2>
 <ul>
-  <il>Sue Sampson</il>
-  <il>Jackie Scott</il>
+  <li>Sue Sampson</li>
+  <li>Jackie Scott</li>
 </ul>
